@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "city": "Munich",
+    "country": "Germany"
+  },
+  {
+    "id": 2,
+    "city": "Berlin",
+    "country": "Germany"
+  },
+  {
+    "id": 3,
+    "city": "Toronto",
+    "country": "Canada"
+  },
+  {
+    "id": 4,
+    "city": "Vancouver",
+    "country": "Canada"
+  },
+  {
+    "id": 5,
+    "city": "New York",
+    "country": "USA"
+  },
+  {
+    "id": 6,
+    "city": "Honolulu"
+  }
+]

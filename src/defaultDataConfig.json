@@ -1,0 +1,33 @@
+{
+    "displayableFilterFields": {
+        "available": [
+            "city",
+            "country"
+        ],
+        "selected": [
+            "city",
+            "country"
+        ],
+        "ui": true
+    },
+    "dependencyOfFilters": {
+        "available": [
+            "dependent"
+        ],
+        "selected": [],
+        "ui": true
+    },
+    "header1": {
+        "available": [
+            "city", "country"
+        ],
+        "selected": ["city"],
+        "delimiter": ", ",
+        "ui": true
+    },
+    "activeFilters": {
+        "city": [],
+        "country": [],
+        "ui": false
+    }
+}
